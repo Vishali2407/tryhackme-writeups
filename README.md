@@ -9,3 +9,31 @@ The goal of this repository is to:
 
 ## Repository Structure
 Each folder represents one TryHackMe room.
+
+tryhackme-writeups/
+│
+├── HTTP-in-Detail/
+│ └── README.md
+│
+└── (more rooms will be added)
+
+markdown
+Copy code
+
+## Why This Repository
+I created this repository to:
+- Reinforce concepts by writing them down
+- Practice explaining technical topics clearly
+- Build a public learning log that shows consistent effort
+
+These notes are written from a student’s perspective and focus on understanding rather than copying official content.
+
+## Disclaimer
+- These write-ups are for learning purposes only
+- Flags and sensitive details are not shared
+- Content is written in my own words based on what I understood
+
+## Next Goals
+- Complete more web and networking rooms
+- Learn basic web exploitation techniques
+- Improve documentation and technical writing skills over time
