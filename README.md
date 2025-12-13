@@ -7,19 +7,6 @@ The goal of this repository is to:
 - Build strong fundamentals step by step
 - Track my progress as a cybersecurity learner
 
-## Repository Structure
-Each folder represents one TryHackMe room.
-
-tryhackme-writeups/
-│
-├── HTTP-in-Detail/
-│ └── README.md
-│
-└── (more rooms will be added)
-
-markdown
-Copy code
-
 ## Why This Repository
 I created this repository to:
 - Reinforce concepts by writing them down
