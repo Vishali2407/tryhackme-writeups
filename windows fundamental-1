@@ -1,0 +1,51 @@
+# TryHackMe – Windows Fundamentals 1
+
+## Overview
+This room introduces the basic structure and working of the Windows operating system. It explains how users interact with Windows, how files are stored, how permissions work, and how core system components are managed.
+
+For a cybersecurity beginner, this room is important because Windows systems are widely used in real environments. Understanding Windows basics is required before learning about attacks, privilege escalation, or system misconfigurations.
+
+The room mainly focuses on Windows OS fundamentals, file systems, user accounts, permissions, and built-in utilities.
+
+## What I Learned
+- **Windows editions**  
+  Learned that Windows has multiple editions, each designed for different users and purposes.
+- **Desktop and GUI**  
+  Understood how users interact with Windows using the graphical interface.
+- **Windows basics**  
+  Learned how Windows manages users, files, and system processes.
+- **NTFS file system**  
+  Learned how files and folders are stored and how permissions are applied using NTFS.
+- **System32 folder**  
+  Understood why the `System32` directory is critical and why changing it can break the system.
+- **User accounts and profiles**  
+  Learned the difference between Administrator and Standard users and how profiles are created in `C:\Users`.
+- **User Account Control (UAC)**  
+  Learned how UAC prevents unauthorized system-level changes.
+- **Settings and Control Panel**  
+  Understood the difference between modern Settings and the traditional Control Panel.
+- **Task Manager**  
+  Learned how to monitor running processes, performance, and active users.
+
+## Tools & Commands Used
+- Windows graphical interface
+- Run dialog (`Win + R`)
+- Task Manager
+- Windows Settings and Control Panel
+
+## Key Takeaways
+- User permissions are central to Windows security.
+- Administrator accounts have full system control.
+- Critical system folders should not be modified.
+- UAC adds an extra layer of protection.
+- Task Manager is useful for monitoring system activity.
+
+## How This Helps My Cybersecurity Journey
+This room builds the foundation for working with Windows systems in security roles. It helps in understanding how attackers may abuse permissions and how defenders manage users and system settings.
+
+This knowledge is required before moving to Windows privilege escalation, malware analysis, or Active Directory topics.
+
+## Next Steps
+- Complete Windows Fundamentals 2 and 3
+- Learn basic CMD and PowerShell commands
+- Practice beginner Windows privilege escalation rooms
